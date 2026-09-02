@@ -38,6 +38,7 @@ gem "rack-cors"
 gem "gun_broker", ">= 1.4.8"
 
 gem "pry"
+gem "pg"
 
 group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
